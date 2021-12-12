@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreReportViewer", "AspNetCoreReportViewer.csproj", "{95C62B83-A67F-409C-B489-B7E21522AAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDLCDesign", "..\RDLCDesign\RDLCDesign.csproj", "{F6D337A9-D0B6-49D5-BAEC-92637AAC7B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C62B83-A67F-409C-B489-B7E21522AAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C62B83-A67F-409C-B489-B7E21522AAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C62B83-A67F-409C-B489-B7E21522AAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C62B83-A67F-409C-B489-B7E21522AAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D337A9-D0B6-49D5-BAEC-92637AAC7B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D337A9-D0B6-49D5-BAEC-92637AAC7B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D337A9-D0B6-49D5-BAEC-92637AAC7B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D337A9-D0B6-49D5-BAEC-92637AAC7B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3138BA7C-882D-4138-A57B-A9B677E8F0A0}
+	EndGlobalSection
+EndGlobal
